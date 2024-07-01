@@ -1,0 +1,6 @@
+@Log.ExceptionHandling.Globally.WebAPI_HostAddress = http://localhost:5069
+
+GET {{Log.ExceptionHandling.Globally.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
